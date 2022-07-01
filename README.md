@@ -13,6 +13,7 @@ Interests:
   <li> Data Science </li>
   <li> Web Development </li>
   
+ <br>
 Contact:
   <li> Email: mahdisaid24@gmail.com </li>
   <li> LinkedIn: <a href="https://www.linkedin.com/in/mahdi-said-5420b31b2/"> Mahdi Said </a></li>

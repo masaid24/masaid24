@@ -1,20 +1,30 @@
-Hi there 👋
-
+Hi there 👋 <br>
 I am Mahdi Said, 20yo, a data science student from Tunisia.
 
-Technologies:
-  <li> Python(for data science) </li>
+Technologies 👨🏼‍💻:
+  <li> Python </li>
   <li> HTML/CSS </li>
   <li> JavaScript </li>
   <li> C </li>
+  <li> SQL </li>
 <br>
  
-Interests:
+Interests 🌱:
   <li> Data Science </li>
   <li> Web Development </li>
-  
- <br>
-Contact:
+  <li> Problem Solving </li>
+  <li> Design </li>
+<br>
+
+I am currently learning ⚡:
+
+   <li> 'Data Scientist with Python' track on DataCamp </li>
+   <li> React </li>
+   <li> Adobde Illustrator </li>
+<br>
+
+Contact 🗨:
+
   <li> Email: mahdisaid24@gmail.com </li>
   <li> LinkedIn: <a href="https://www.linkedin.com/in/mahdi-said-5420b31b2/"> Mahdi Said </a></li>
 

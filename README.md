@@ -1,7 +1,20 @@
 Hi there 👋
 
 I am Mahdi Said, 20yo, a data science student from Tunisia.
-<li>Python</li>
+
+Technologies:
+  <li> Python(for data science) </li>
+  <li> HTML/CSS </li>
+  <li> JavaScript </li>
+  <li> C </li>
+  
+Interests:
+  <li> Data Science </li>
+  <li> Web Development </li>
+  
+Contact:
+  <li> Email: mahdisaid24@gmail.com </li>
+  <li> LinkedIn: <a href="<a href="https://www.w3schools.com">Visit W3Schools.com!</a>"> Mahdi Said </a></li>
 
 <!--
 **masaid24/masaid24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi there 👋
+
+I am Mahdi Said, 20yo, a data science student from Tunisia.
+<li>Python</li>
 
 <!--
 **masaid24/masaid24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

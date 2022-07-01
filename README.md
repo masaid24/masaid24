@@ -7,7 +7,7 @@ Technologies:
   <li> HTML/CSS </li>
   <li> JavaScript </li>
   <li> C </li>
- 
+<br>
  
 Interests:
   <li> Data Science </li>

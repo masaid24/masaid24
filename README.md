@@ -14,7 +14,7 @@ Interests:
   
 Contact:
   <li> Email: mahdisaid24@gmail.com </li>
-  <li> LinkedIn: <a href="<a href="https://www.w3schools.com">Visit W3Schools.com!</a>"> Mahdi Said </a></li>
+  <li> LinkedIn: <a href="https://www.linkedin.com/in/mahdi-said-5420b31b2/"> Mahdi Said </a></li>
 
 <!--
 **masaid24/masaid24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

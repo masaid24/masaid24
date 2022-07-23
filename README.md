@@ -20,7 +20,7 @@ I am currently learning ⚡:
 
    <li> 'Data Scientist with Python' track on DataCamp </li>
    <li> React </li>
-   <li> Adobde Illustrator </li>
+   <li> Adobe Illustrator </li>
 <br>
 
 Contact 🗨:

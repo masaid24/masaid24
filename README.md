@@ -1,5 +1,5 @@
 Hi there 👋 <br>
-I am Mahdi Said, 20yo, a data science student from Tunisia.
+I am Mahdi Said, 20yo, a  Big Data and Data Analytics student from Tunisia.
 
 Technologies 👨🏼‍💻:
   <li> Python </li>
